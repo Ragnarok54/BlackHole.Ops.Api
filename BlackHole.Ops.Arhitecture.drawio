@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="KhWwUhYrWgy_Sjcv2LY8">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7fpMEejNTYw7-eFCO7nX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7fpMEejNTYw7-eFCO7nX-1" target="7fpMEejNTYw7-eFCO7nX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fpMEejNTYw7-eFCO7nX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7fpMEejNTYw7-eFCO7nX-1" target="7fpMEejNTYw7-eFCO7nX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="324" />
+              <mxPoint x="190" y="202" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fpMEejNTYw7-eFCO7nX-1" value="BlackHole.Ops.SqlServer" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="7fpMEejNTYw7-eFCO7nX-2" value="Users DB" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="7fpMEejNTYw7-eFCO7nX-3" value="Items DB" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="292" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="7fpMEejNTYw7-eFCO7nX-8" value="Wiki&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;DB&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="410" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="7fpMEejNTYw7-eFCO7nX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7fpMEejNTYw7-eFCO7nX-1" target="7fpMEejNTYw7-eFCO7nX-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="324" />
+              <mxPoint x="190" y="441" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
